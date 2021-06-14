@@ -1,2 +1,3 @@
-# A Simple Bank App
+# Bytebank
 
+A Simple Bank App using Flutter.
